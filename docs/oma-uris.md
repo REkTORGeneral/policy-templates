@@ -1,5 +1,5 @@
 # Firefox ADMX OMA-URIs for Intune
-
+PolakMały 
 Auto-generated from `windows/firefox.admx` (revision `8.4`). Do not edit by hand.
 
 Entries are grouped by top-level policy so a link to `docs/oma-uris.md#policyname` (lowercased) reaches the right section. Policies marked "(Deprecated)" in the ADML are omitted. Numbered families (e.g. `Bookmark01`-`Bookmark50`) are collapsed into a single entry with an `NN` placeholder in the URI.
